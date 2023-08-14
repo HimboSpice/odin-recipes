@@ -1,0 +1,44 @@
+body {
+    font-family: 'Old Standard TT', serif;
+    background-color: #4D3B25;
+    background-image: url('viking_background.jpg');
+    background-size: cover;
+    color: #EDE6D2;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+    padding-top: 50px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 20px;
+  }
+  
+  li {
+    margin: 10px 0;
+  }
+  
+  a {
+    color: #EDE6D2;
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  a:hover {
+    color: #FFD700;
+  }
+  ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    list-style: none;
+  }
+  
+  li {
+    margin: 10px 0;
+  }
