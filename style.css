@@ -3,6 +3,9 @@ body {
     background-color: #4D3B25;
     background-image: url('https://i.pinimg.com/originals/b2/62/2b/b2622bf467535aa87f14789f0b32940e.jpg');
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
     color: #EDE6D2;
     margin: 0;
     padding: 0;
