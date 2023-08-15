@@ -42,3 +42,16 @@ body {
   li {
     margin: 10px 0;
   }
+
+/* below is the code to center the YT video */
+
+  .center-container {
+    display: grid;
+    place-items: center;
+    height: 50vh; /* Adjust this to control the vertical centering */
+  }
+  
+  .center-container iframe {
+    max-width: 100%;
+  }
+  
